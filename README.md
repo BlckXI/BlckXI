@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Luis 
+¡Hola! 👋 Soy me llamo Luis
 
 🔹 Sobre mí   
 - 📚 Aprendiendo JavaScript / C#  
